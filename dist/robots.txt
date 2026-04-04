@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-summit-welding.dream-surge.com/sitemap-index.xml
